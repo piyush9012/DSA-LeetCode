@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
