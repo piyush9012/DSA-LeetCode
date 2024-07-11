@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/piyush9012/DSA-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
