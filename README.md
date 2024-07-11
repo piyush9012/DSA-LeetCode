@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyush9012/DSA-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/piyush9012/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
