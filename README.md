@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -66,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
