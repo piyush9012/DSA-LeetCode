@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyush9012/DSA-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
