@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyush9012/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/piyush9012/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
