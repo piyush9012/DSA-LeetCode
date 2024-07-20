@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/piyush9012/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush9012/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/piyush9012/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
