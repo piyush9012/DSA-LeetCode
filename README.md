@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/piyush9012/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/piyush9012/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/piyush9012/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/piyush9012/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/piyush9012/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/piyush9012/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/piyush9012/DSA-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/piyush9012/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/piyush9012/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -201,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piyush9012/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piyush9012/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
