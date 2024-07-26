@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyush9012/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
 ## Merge Sort
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/piyush9012/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush9012/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush9012/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyush9012/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/piyush9012/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
