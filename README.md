@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush9012/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/piyush9012/DSA-LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
