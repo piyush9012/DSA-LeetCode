@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/piyush9012/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/piyush9012/DSA-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/piyush9012/DSA-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Search
 |  |
