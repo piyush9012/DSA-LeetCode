@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/piyush9012/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/piyush9012/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyush9012/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/piyush9012/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/piyush9012/DSA-LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/piyush9012/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/piyush9012/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/piyush9012/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0229-majority-element-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/piyush9012/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/piyush9012/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/piyush9012/DSA-LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush9012/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/piyush9012/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
