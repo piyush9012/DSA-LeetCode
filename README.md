@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/piyush9012/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2032-largest-odd-number-in-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/piyush9012/DSA-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -277,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/piyush9012/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
