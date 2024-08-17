@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/piyush9012/DSA-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/piyush9012/DSA-LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/piyush9012/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/piyush9012/DSA-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1646-kth-missing-positive-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/piyush9012/DSA-LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
