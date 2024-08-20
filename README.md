@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyush9012/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyush9012/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/piyush9012/DSA-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/piyush9012/DSA-LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/piyush9012/DSA-LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Memoization
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/piyush9012/DSA-LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/piyush9012/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/piyush9012/DSA-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
 | [1646-kth-missing-positive-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/piyush9012/DSA-LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/piyush9012/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush9012/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
 ## Graph
 |  |
 | ------- |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/piyush9012/DSA-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/piyush9012/DSA-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/piyush9012/DSA-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
