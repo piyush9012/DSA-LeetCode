@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush9012/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyush9012/DSA-LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyush9012/DSA-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/piyush9012/DSA-LeetCode/tree/master/2502-sort-the-people) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyush9012/DSA-LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/piyush9012/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/piyush9012/DSA-LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/piyush9012/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/piyush9012/DSA-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyush9012/DSA-LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/piyush9012/DSA-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/piyush9012/DSA-LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyush9012/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush9012/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyush9012/DSA-LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyush9012/DSA-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/piyush9012/DSA-LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Stack
