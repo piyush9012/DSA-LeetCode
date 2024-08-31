@@ -1,27 +1,20 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        int n = s.length();
-        int m = t.length();
-
-        if(n != m) return false;
-
-        Map<Character, Character> mpp = new HashMap<>();
-        for(int i = 0; i<n; i++){
-            char s1 = s.charAt(i);
-            char s2 = t.charAt(i);
-            if(!mpp.containsKey(s1)){
-                if(!mpp.containsValue(s2)){
-                    mpp.put(s1, s2);
-                }
-                else return false;
+        int[] indexS = new int[200];
+        int[] indexT = new int[200];
+        
+        int len = s.length();
+        if(len != t.length()) return false;
+        
+        for(int i = 0; i < len; i++) {
+            // Check if the index of the current character in string s is different from the index of the corresponding character in string t
+            if(indexS[s.charAt(i)] != indexT[t.charAt(i)]) {
+                return false;
             }
-            else{
-                char c = mpp.get(s1);
-                if(c != s2) return false;
-            }
+            
+            indexS[s.charAt(i)] = i + 1;
+            indexT[t.charAt(i)] = i + 1;
         }
-
-
         return true;
     }
 }
