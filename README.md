@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/piyush9012/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/piyush9012/DSA-LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/piyush9012/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/piyush9012/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/piyush9012/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/piyush9012/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyush9012/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/piyush9012/DSA-LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/piyush9012/DSA-LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/piyush9012/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/piyush9012/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -402,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/piyush9012/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/piyush9012/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
